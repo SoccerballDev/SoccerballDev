@@ -1,4 +1,4 @@
-👋🏾 Yo! Im Soccerball, and I code games in:
+👋🏾 Yo! Im Soccerball, and I code games in
 Godot
 and im learning Blender!
 
